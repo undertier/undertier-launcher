@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "None",
+  "pub_date": "2026-08-10T04:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVhpVzVudEtGQjhwZFB1VnRxdUIyaHIreVl3Z1dvaFVoczFxNlkxYld5b2NKNWtMM3owZ0U4aW5Qb1Ixb2x6c1NESXRZZW13MDNRdjhLcmZxa3gzNnh2UFV4dFFZM1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzM3OTExCWZpbGU6dW5kZXJ0aWVyXzAuMS4wX3g2NF9lbi1VUy5tc2kKTVFjU0VPTDR4UjRwMHY3dHpCM2FCQkNEand6ZGRWWUMrVVJsWWJPbWwwQlBEeVRpMTdpTjNWbThaSFA0TjNSWnVzb3pBclZ1MVFnZEtNMnBSQXZ2REE9PQo=",
+      "url": "https://github.com/undertier/undertier-launcher/releases/download/v0.1.0/undertier_0.1.0_x64_en-US.msi"
+    }
+  }
+}
